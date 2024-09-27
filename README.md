@@ -1,6 +1,7 @@
 # OperationalSystems
-Laba1:
-<\-working in C++\n>
-<\-getting to know CMake\n>
-<\-working with processes\n>
-<\-using CTests\n>
+# **Laba1**
+
+- working in C++
+- getting to know CMake
+- working with processes
+- using CTests
